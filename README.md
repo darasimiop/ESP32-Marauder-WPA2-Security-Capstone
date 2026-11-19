@@ -6,7 +6,14 @@ I built an ESP32-based wireless security prototype, diagnosed a microSD mount fa
 
 [Portfolio presentation (PDF)](presentation/ESP32-Marauder-WPA2-Security-Capstone.pdf) · [Editable PowerPoint](presentation/ESP32-Marauder-WPA2-Security-Capstone.pptx) · [Technical case study](docs/technical-case-study.md)
 
+
 <img src="assets/assembled-tft.png" alt="Original photo of the assembled ESP32 Marauder with its TFT display running" height="260"> <img src="assets/assembled-rear.png" alt="Original rear photo showing the ESP32, breadboard wiring, and microSD module" height="260">
+
+### Video Demonstration
+
+[▶ Watch my ESP32 Marauder WPA2 Capstone Demonstration](https://youtu.be/2y4-D3z_nvg)
+
+Recorded walkthrough of my authorized WSU capstone, including the ESP32 hardware, troubleshooting, wireless traffic analysis, and lab results.
 
 ## Project evidence
 
