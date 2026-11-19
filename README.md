@@ -32,6 +32,7 @@ For SOC analyst work, the most relevant skills are checking evidence quality, is
 
 | Artifact | What it shows |
 | --- | --- |
+| [Portfolio presentation](presentation/ESP32-Marauder-WPA2-Security-Capstone.pdf) · [Editable PowerPoint](presentation/ESP32-Marauder-WPA2-Security-Capstone.pptx) | Seven slides covering the build, evidence, and defensive findings |
 | [Technical case study](docs/technical-case-study.md) | Prototype validation, microSD fault isolation, and the limits of the wireless finding |
 | [Lab findings and limitations](docs/lab-findings.md) | Observations and the conclusions supported by the project records |
 | [Presentation brief](docs/presentation-brief.md) | A short walkthrough of the project for a portfolio review |
