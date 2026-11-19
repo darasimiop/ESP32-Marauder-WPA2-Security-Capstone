@@ -28,4 +28,12 @@ An incomplete capture can reflect a collection problem. A completed assessment w
 
 For SOC analyst work, the most relevant skills are checking evidence quality, isolating technical faults, and communicating what the evidence supports.
 
-[Read the lab findings and limitations](docs/lab-findings.md)
+## Project evidence
+
+| Artifact | What it shows |
+| --- | --- |
+| [Technical case study](docs/technical-case-study.md) | Prototype validation, microSD fault isolation, and the limits of the wireless finding |
+| [Lab findings and limitations](docs/lab-findings.md) | Observations and the conclusions supported by the project records |
+| [Presentation brief](docs/presentation-brief.md) | A short walkthrough of the project for a portfolio review |
+| [First-boot photo](assets/prototype-first-boot.png) | The prototype display after firmware setup |
+| [Storage error screenshot](assets/storage-error.png) | The microSD mount error recorded during functional testing |
